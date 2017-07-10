@@ -9,6 +9,6 @@
     "email": "ping@presslabs.com",
     "requires_at_least": "3.5",
     "tested_up_to": "4.8",
-    "license_name": "GPLv3",
-    "license_url": "http://www.gnu.org/licenses/gpl-3.0.html" 
+    "license_name": "GPLv2",
+    "license_url": "http://www.gnu.org/licenses/gpl-2.0.html" 
 }
