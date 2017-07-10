@@ -3,7 +3,7 @@ Contributors: {{cookiecutter.author}}
 Donate link: {{cookiecutter.author_url}}
 Requires at least: {{cookiecutter.requires_at_least}}
 Tested up to: {{cookiecutter.test_up_to}}
-License: {{cookiecutter.license}}
+License: {{cookiecutter.license_name}}
 License URI: {{cookiecutter.license_url}}
 
 
