@@ -11,8 +11,8 @@ License URI: {{cookiecutter.license_url}}
 
 {{cookiecutter.description}}
 
-= Github repository =
-https://github.com/presslabs/{{cookiecutter.slug}}
+= Git repository =
+{{cookiecutter.git_url}}
 
 == Changelog ==
 
