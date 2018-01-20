@@ -13,7 +13,7 @@ Installation
 To install from Github, you only need the `src` directory.
 
 ```bash
-git clone git@github.com:Presslabs/{{cookiecutter.slug}}
+git clone {{cookiecutter.git_url}}
 cd {{cookiecutter.slug}}
 cp -r src /path/to/site/wp-content/plugins/{{cookiecutter.slug}}
 ```
